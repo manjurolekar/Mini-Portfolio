@@ -73,3 +73,4 @@ This project includes `vite.config.js` with the official Vite React plugin and e
 The Email Me button opens a Gmail compose window in the browser addressed to `manjurolekar315@gmail.com`, so Windows does not need a default desktop mail app. Visitors must sign in to Gmail to send a message.
 
 CSS includes 3D tilt, floating portrait-card motion, orbit motion, and hover depth on project and skill cards. Motion is reduced for users whose operating system requests reduced motion.
+"# Mini-Portfolio" 
