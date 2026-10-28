@@ -74,3 +74,4 @@ The Email Me button opens a Gmail compose window in the browser addressed to `ma
 
 CSS includes 3D tilt, floating portrait-card motion, orbit motion, and hover depth on project and skill cards. Motion is reduced for users whose operating system requests reduced motion.
 "# Mini-Portfolio" 
+"# Mini-Portfolio" 
